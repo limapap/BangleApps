@@ -1,0 +1,16 @@
+{
+  "id": "goback",
+  "name": "GoBack",
+  "shortName": "GoBack",
+  "version": "0.01",
+  "description": "Find your car - save GPS location and navigate back with compass arrow and distance display",
+  "icon": "goback.png",
+  "type": "app",
+  "tags": "tool,gps,navigation",
+  "supports": ["BANGLEJS2"],
+  "readme": "README.md",
+  "storage": [
+    {"name": "goback.app.js", "url": "goback.app.js"},
+    {"name": "goback.info", "url": "goback.info"}
+  ]
+}
